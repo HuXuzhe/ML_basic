@@ -1,0 +1,5 @@
+state,beijing_CH,beijing_US,chengdu_CH,chengdu_US,guangzhou_CH,guangzhou_US,shanghai_CH,shanghai_US,shenyang_CH,shenyang_US
+good,213,205,196,111,351,376,340,375,207,205
+heavy,140,144,111,118,4,7,36,28,79,89
+light,291,299,441,480,441,412,480,489,385,388
+medium,286,282,281,320,124,125,220,184,256,245
